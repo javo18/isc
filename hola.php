@@ -1,5 +1,3 @@
 <?php
-
-echo "Hola Mundo";
-
-?>
+echo "hellowworld";
+>?
